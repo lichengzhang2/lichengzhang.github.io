@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Licheng Zhang / Site Title"
+title                    : "Licheng Zhang's website"
 title_separator          : "-"
 name                     : &name "Licheng Zhang"
 description              : &description "personal description"
