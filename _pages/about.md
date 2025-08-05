@@ -11,7 +11,7 @@ redirect_from:
 
 My Interests
 ======
-I am interested in graph theory, with a focus on structural properties of planar graphs and beyond-planar graphs, including $k$-planar graphs, Hamiltonian cycles, and matching theory.
+I am interested in graph theory, with a focus on structural properties of planar graphs and beyond-planar graphs, including \(k\) -planar graphs, Hamiltonian cycles, and matching theory.
 
 
 ------
