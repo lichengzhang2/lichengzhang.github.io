@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-
+Licheng Zhang received his Ph.D. from Hunan Normal University in December 2023 and is currently a postdoctoral researcher at Hunan University.
 
 My Interests
 ======
