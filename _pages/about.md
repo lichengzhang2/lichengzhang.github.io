@@ -10,7 +10,7 @@ Welcome to  my homepage! I received my Ph.D. from Hunan Normal University in Dec
 
 My Interests
 ======
-I am interested in graph theory, with a focus on structural properties of planar graphs and beyond-planar graphs, including $`k`$-planar graphs, Hamiltonian cycles, and matching theory.
+I am interested in graph theory, with a focus on structural properties of planar graphs and beyond-planar graphs, including \\(k\\)-planar graphs, Hamiltonian cycles, and matching theory.
 
 
 ------
