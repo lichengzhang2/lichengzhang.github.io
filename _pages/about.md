@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Welcome to the homepage of Licheng Zhang"
+title: "Licheng Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Licheng Zhang received his Ph.D. from Hunan Normal University in December 2023 and is currently a postdoctoral researcher at Hunan University.
+Welcome to the my homepage! I received his Ph.D. from Hunan Normal University in December 2023 and is currently a postdoctoral researcher at Hunan University.
 
 My Interests
 ======
