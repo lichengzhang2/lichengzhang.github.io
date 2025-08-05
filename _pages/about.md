@@ -9,9 +9,9 @@ redirect_from:
 
 
 
-A data-driven personal website
-======
-I enjoy and am engaged in graph theory research, with a primary focus on finding new structures (subgraph and subdrawing) of k-planar graphs. Additionally, I am currently interested in cycles and matching problems in graphs.
 
-For more info
+======
+I am interested in graph theory, with a focus on structural properties of planar graphs and beyond-planar graphs, including $k$-planar graphs, Hamiltonian cycles, and matching theory.
+
+
 ------
