@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to  my homepage! I received his Ph.D. from Hunan Normal University in December 2023 and is currently a postdoctoral researcher at Hunan University.
+Welcome to  my homepage! I received my Ph.D. from Hunan Normal University in December 2023 and is currently a postdoctoral researcher at Hunan University.
 
 My Interests
 ======
