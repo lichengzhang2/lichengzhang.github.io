@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "A new note on 1-planar graphs with minimum degree 7."
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Yuanqiu Huang, Licheng Zhang, Fengming Dong'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+venue: 'Discrete Applied Mathematics.'
+paperurl: 'https://doi.org/10.1016/j.dam.2024.01.026'
+citation: 'Y. Huang, L. Zhang and F. Dong, A new note on 1-planar graphs with minimum degree 7, Discrete Appl. Math. 348 (2024), 165--183; MR4700123'
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
