@@ -2,7 +2,7 @@
 title: "4-Connected 1-Planar Chordal Graphs Are Hamiltonian-Connected."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2025-3-4-Connected 1-Planar Chordal Graphs Are Hamiltonian-Connected
 excerpt: 'Authors: L. Zhang, Y. Huang, S. Lv, F. Dong'
 date: 2025-03-19
 venue: 'Jounal of Graph Theory'
