@@ -2,8 +2,8 @@
 title: "The matching extendability of 7-connected maximal 1-plane graphs."
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Authors:  Y. Huang, L. Zhang, Y. Wang'
+permalink: /publication/2024-3-01-The matching extendability of 7-connected maximal 1-plane graphs
+excerpt: 'Authors:  Yuanqiu Huang, Licheng Zhang, Yuxi Wang'
 date: 2024-10-01
 venue: 'Discussiones Mathematicae. Graph Theory'
 slidesurl: ''
