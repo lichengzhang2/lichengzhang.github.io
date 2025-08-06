@@ -13,11 +13,11 @@ Education
 ======
 * Ph.D in Hunan Normal University, 2020-2023
 * M.S. in Central China Normal University, 2017-2020
-* B.S. in GitHub, Anqing Normal University, 2013-2017
+* B.S. in Anqing Normal University, 2013-2017
 
 Work experience
 ======
-* Spring 2023-: Postdoctoral researcher
+*2023-: Postdoctoral researcher in Hunan University
 
 
   
