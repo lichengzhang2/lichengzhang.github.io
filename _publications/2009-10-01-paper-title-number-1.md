@@ -1,7 +1,7 @@
 ---
 title: "4-Connected 1-Planar Chordal Graphs Are Hamiltonian-Connected."
 collection: publications
-category: Published
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
 date: 2025-03-19
