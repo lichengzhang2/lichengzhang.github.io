@@ -1,7 +1,7 @@
 ---
 title: "A new note on 1-planar graphs with minimum degree 7."
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Yuanqiu Huang, Licheng Zhang, Fengming Dong'
 date: 2024-02-17
